@@ -1,0 +1,15 @@
+00:00 Review of best vision models for fine tuning
+10:50 Learn export file pth format
+12:30 Multi-head deep learning model setup
+16:00 Getting a sense of the error rate
+20:00 Looking inside the model
+22:30 Shape of the model
+23:40 Last layer at the end of the head
+26:00 Changing the last layer
+29:00 Creating a DiseaseAndTypeClassifier class
+38:00 Debugging the plumbing of the new subclass
+46:00 Testing the new learner
+49:00 Create a new loss function
+52:00 Getting predictions for two different targets
+56:00 Create new error function
+
